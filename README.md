@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/37732484/171544779-6bdaadc1-a5a9-41dc-9e04-4527ca866b7c.png)
+
+
 you can find compiled binaries in release section, and to run plz execute the sudo_limitbat file :)
 
 to build from source,
